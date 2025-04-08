@@ -148,3 +148,6 @@ CRISPY_ALLOWED_TEMPLATE_PACKS = 'bootstrap5'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = 'todolist'
+
+
+# postgresql: //postgres:lUpMEhUaXcXiZYJZHXBTTqUCxPcZjiAb@switchback.proxy.rlwy.net:33053/railway
